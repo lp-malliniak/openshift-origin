@@ -21,13 +21,13 @@
 			"value": "changeme"
 		},
 		"masterInstanceCount": {
-			"value": 3
+			"value": 1
 		},
 		"infraInstanceCount": {
-			"value": 2
+			"value": 1
 		},
 		"nodeInstanceCount": {
-			"value": 1
+			"value": 2
 		},
 		"dataDiskSize": {
 			"value": 128
@@ -36,37 +36,49 @@
 			"value": "changeme"
 		},
 		"openshiftPassword": {
-			"value": "changeme"
+			"value": "A!12345678"
 		},
 		"enableMetrics": {
-			"value": "false"
+			"value": "true"
 		},
 		"enableLogging": {
-			"value": "false"
+			"value": "true"
 		},
 		"enableCockpit": {
-			"value": "false"
+			"value": "true"
+		},
+		"rhsmUsernamePasswordOrActivationKey": {
+			"value": "password"
+		},
+		"rhsmUsernameOrOrgId": {
+			"value": "changeme"
+		},
+		"rhsmPasswordOrActivationKey": {
+			"value": "changeme"
+		},
+		"rhsmPoolId": {
+			"value": "changeme"
 		},
 		"sshPublicKey": {
-			"value": "changeme"
+			"value": "GEN-SSH-PUB-KEY"
 		},
 		"keyVaultResourceGroup": {
-			"value": "changeme"
+			"value": "kluczessh"
 		},
 		"keyVaultName": {
 			"value": "changeme"
 		},
 		"keyVaultSecret": {
-			"value": "changeme"
+			"value": "uzytkownik"
 		},
 		"enableAzure": {
 			"value": "false"
 		},
 		"aadClientId": {
-			"value": "changeme"
+			"value": "deployment"
 		},
 		"aadClientSecret": {
-			"value": "changeme"
+			"value": "A!12345678"
 		},
 		"defaultSubDomainType": {
 			"value": "nipio"
